@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Apaixonado por tecnologias.<br>📚 Estou frequentemente a aprender novas coisas.<br>🎯 Usar minhas habilidades para poder mudar o mundo.<br>🎲Disponível para participar no teu projeto ou equipe para desenvolver algo incrível.</p>
+<p align="left">✨ Apaixonado por tecnologias.<br>📚 Estou frequentemente a aprender novas coisas.<br>🎯 Usar minhas habilidades para mudar o mundo.<br>🎲Disponível para participar no teu projeto ou equipe para desenvolver algo incrível.</p>
 
 ###
 
