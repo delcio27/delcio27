@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Délcio Sebastião and I'm a Informatic Technical, from Angola.</p>
+<p align="left">My name is **Délcio Sebastião**, and I'm an IT Technician from Angola..</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Apaixonado por tecnologias.<br>📚 Estou frequentemente a aprender novas coisas.<br>🎯 Usar minhas habilidades para mudar o mundo.<br>🎲Disponível para participar no teu projeto ou equipe para desenvolver algo incrível.</p>
+<p align="left">✨ Passionate about technology.<br>📚 Constantly learning new skills .<br>🎯 Using my skills to make a positive impact on the world .<br>🎲Open to collaborations** on exciting projects.</p>
 
 ###
 
@@ -44,6 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" />
 </div>
 
 ###
@@ -53,3 +54,7 @@
 </div>
 
 ###
+<h2 align="left">Let's Connect!
+</h2>
+<p align="left">I'm available to join projects or teams. If you're working on something interesting, feel free to reach out!</p>
+
