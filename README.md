@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is **Délcio Sebastião**, and I'm an IT Technician from Angola..</p>
+<p align="left">My name is Délcio Sebastião, and I'm an IT Technician from Angola..</p>
 
 ###
 
